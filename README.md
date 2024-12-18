@@ -19,18 +19,18 @@ This example show reading inputs and writing outputs for the ESP32-H2 processor 
 <br/>
 
 ## Procedure:
-| Component              | Action                                                               |
-|------------------------|----------------------------------------------------------------------|
-| [ Zigbee2MQTT ]          | Add external converter (file ../z2m_converter/ESP32_H2.js)           |
-| [VSCode]               | Install VSCode, add EXTENSION ESP-IDF, install ESP-IDF environment   |
-| [VSCode]               | Open project                                                         |
-| [VSCode]               | Select platform (ESP32H2 or ESP32H2) and COM port                    |
-| [VSCode]               | Build the project                                                    |
-| [VSCode]               | Flash device                                                         |
-| [VSCode]               | Monitor device                                                       |
-| [Zigbee2MQTT]          | Permit join devices                                                  |
-| [ESP32-H2-DevKitM-1]   | Reset device                                                         |
-| [Zigbee2MQTT]          | After correctly adding it in zigbee2mqtt, we can see the operation of the device |
+| Component            | Action                                                               |
+|----------------------|----------------------------------------------------------------------|
+| Zigbee2MQTT          | Add external converter (file ../z2m_converter/ESP32_H2.js)           |
+| VSCode               | Install VSCode, add EXTENSION ESP-IDF, install ESP-IDF environment   |
+| VSCode               | Open project                                                         |
+| VSCode               | Select platform (ESP32H2 or ESP32H2) and COM port                    |
+| VSCode               | Build the project                                                    |
+| VSCode               | Flash device                                                         |
+| VSCode               | Monitor device                                                       |
+| Zigbee2MQTT          | Permit join devices                                                  |
+| ESP32-H2-DevKitM-1   | Reset device                                                         |
+| Zigbee2MQTT          | After correctly adding it in zigbee2mqtt, we can see the operation of the device |
 <br/>
 
 ## Operating modes:
