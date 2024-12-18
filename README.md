@@ -2,7 +2,6 @@
 | ----------------- | -------- | -------- |
 
 # ESP32-H2-DevKitM-1 + Zigbee2MQTT + VSCode
-<br/>
 
 ## Description
 This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters.
