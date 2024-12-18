@@ -8,17 +8,17 @@ This example show reading inputs and writing outputs for the ESP32-H2 processor 
 <br/>
 <br/>
 
-## Hardware platform:
+## Hardware platform
   - ESP32-H2-DevKitM-1
 <br/>
 
-## Software platform:
+## Software platform
   - ESP-IDF v5.4  
   - Zigbee2MQTT  
   - Visual Studio Code + ESP-IDF extension  
 <br/>
 
-## Procedure:
+## Procedure
 | Component            | Action                                                               |
 |----------------------|----------------------------------------------------------------------|
 | Zigbee2MQTT          | Add external converter (file ../z2m_converter/ESP32_H2.js)           |
@@ -33,7 +33,7 @@ This example show reading inputs and writing outputs for the ESP32-H2 processor 
 | Zigbee2MQTT          | After correctly adding it in zigbee2mqtt, we can see the operation of the device |
 <br/>
 
-## Operating modes:
+## Operating modes
 The device has two operating modes depending on the setting:
 #define MODE_RANDOM_OR_REWRITE (z2m.h file), set to true or false.
   - True  - mode of writing random values ​​to the outputs
