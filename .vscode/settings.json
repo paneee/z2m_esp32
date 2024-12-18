@@ -1,0 +1,28 @@
+{
+    "idf.adapterTargetName": "esp32h2",
+    "idf.openOcdConfigs": [
+        "board/esp32h2-builtin.cfg"
+    ],
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_zigbee_ha_standard.h": "c",
+        "esp_zigbee_core.h": "c",
+        "esp_zigbee_cluster.h": "c",
+        "esp_zb_light.h": "c",
+        "compare": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "string.h": "c",
+        "light.h": "c",
+        "led_strip.h": "c",
+        "type_traits": "c",
+        "z2m_analog_input.h": "c",
+        "stdlib.h": "c",
+        "zb_vendor.h": "c",
+        "zb_config_platform.h": "c",
+        "time.h": "c",
+        "uart.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

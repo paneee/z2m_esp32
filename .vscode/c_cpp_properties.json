@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/ADMIN/esp/v5.4/esp-idf/components/**",  // Ścieżka do wszystkich komponentów ESP-IDF
+                "C:/Users/ADMIN/esp/v5.4/esp-idf/components/esp_system/include", // Ścieżka do esp_system.h
+                "C:/Users/ADMIN/esp/v5.4/esp-idf/components/esp_common/include" // Ścieżka do esp_common.h
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "${config:idf.toolsPathWin}\\tools\\riscv32-esp-elf\\esp-12.2.0_20230208\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
