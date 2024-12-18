@@ -29,7 +29,7 @@ This example show reading inputs and writing outputs for the ESP32-H2 processor 
 | Zigbee2MQTT          | After correctly adding it in zigbee2mqtt, we can see the operation of the device |
 
 ## Operating modes
-The device has two operating modes depending on the setting:
+The device has two operating modes depending on the setting:  
 #define MODE_RANDOM_OR_REWRITE (z2m.h file), set to true or false.
   - True  - mode of writing random values ​​to the outputs
   - False - mode of rewriting outputs from inputs
