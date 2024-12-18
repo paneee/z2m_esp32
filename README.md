@@ -3,8 +3,7 @@
 ![zigbee](https://github.com/user-attachments/assets/bbb3fd09-c9fe-449e-9a9b-129e5e6c79af)
 
 
-This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters.  
-Contains the source code for the processor and the converter code for zigbee2mqtt written in javascript.
+This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters. Contains the source code for the processor and the converter code for zigbee2mqtt written in javascript.
 
 ## Supported Targets 
   - ESP32-C6
