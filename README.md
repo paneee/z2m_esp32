@@ -30,9 +30,12 @@ This example show reading inputs and writing outputs for the ESP32-H2 processor 
 
 ## Operating modes
 The device has two operating modes depending on the setting:  
-#define MODE_RANDOM_OR_REWRITE (z2m.h file), set to true or false.
-  - True  - mode of writing random values ​​to the outputs
-  - False - mode of rewriting outputs from inputs
+```c
+#define MODE_RANDOM_OR_REWRITE True
+```
+in z2m.h file set to true or false.
+  - true  - mode of writing random values ​​to the outputs
+  - false - mode of rewriting outputs from inputs
 
 ## Demonstration
 https://github.com/user-attachments/assets/d844e484-898a-47dd-9222-8dc0411be572
