@@ -34,5 +34,7 @@ The device has two operating modes depending on the setting:
   - False - mode of rewriting outputs from inputs
 
 ## Demonstration
-https://github.com/user-attachments/assets/44ea17fa-9751-4947-a88c-a48261713956
+https://github.com/user-attachments/assets/4b21cd15-e4d4-402e-85a5-228b1e0edc12
+
+
 
