@@ -1,5 +1,6 @@
 # ESP32-H2-DevKitM-1 + Zigbee2MQTT
-This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters.
+This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters.  
+Contains the source code for the processor and the converter code for zigbee2mqtt written in javascript.
 
 ## Supported Targets 
   - ESP32-C6
@@ -38,6 +39,9 @@ in z2m.h file set to true or false.
 
 ## Demonstration
 https://github.com/user-attachments/assets/d844e484-898a-47dd-9222-8dc0411be572
+
+## Related Projects
+* [Zigbee2MQTT](https://www.zigbee2mqtt.io/)
 
 
 
