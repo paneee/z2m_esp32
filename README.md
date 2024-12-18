@@ -1,15 +1,16 @@
-| Supported Targets | ESP32-C6 | ESP32-H2 |
-| ----------------- | -------- | -------- |
-
 # ESP32-H2-DevKitM-1 + Zigbee2MQTT + VSCode
+
+## Supported Targets 
+  - ESP32-C6
+  - ESP32-H2
 
 ## Description
 This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters.
 
-## Hardware platform
+## Hardware Platform
   - ESP32-H2-DevKitM-1
 
-## Software platform
+## Software Platform
   - ESP-IDF v5.4  
   - Zigbee2MQTT  
   - Visual Studio Code + ESP-IDF extension  
@@ -28,7 +29,7 @@ This example show reading inputs and writing outputs for the ESP32-H2 processor 
 | ESP32-H2-DevKitM-1   | Reset device                                                         |
 | Zigbee2MQTT          | After correctly adding it in zigbee2mqtt, we can see the operation of the device |
 
-## Operating modes
+## Operating Modes
 The device has two operating modes depending on the setting:  
 ```c
 #define MODE_RANDOM_OR_REWRITE true
