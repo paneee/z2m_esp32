@@ -1,6 +1,6 @@
 # ESP32-H2-DevKitM-1 + Zigbee2MQTT
-![zigbee](https://github.com/user-attachments/assets/bbb3fd09-c9fe-449e-9a9b-129e5e6c79af)
 ![esp32-h2-devkitm-1](https://github.com/user-attachments/assets/c77d54e3-c5ce-4278-bef6-b1f04a8e2a4d)
+![zigbee](https://github.com/user-attachments/assets/bbb3fd09-c9fe-449e-9a9b-129e5e6c79af)
 
 
 This example show reading inputs and writing outputs for the ESP32-H2 processor connected to the zigbee network in the zigbee2MQTT application using custom clusters.  
