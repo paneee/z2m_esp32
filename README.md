@@ -43,8 +43,13 @@ in z2m.h file set to true or false.
 ## Demonstration
 https://github.com/user-attachments/assets/d844e484-898a-47dd-9222-8dc0411be572
 
+## Potential problem
+Sometimes the zigbee stack won't start. Try "Erase Flash" to fix it.
+<img width="160" height="111" alt="1" src="https://github.com/user-attachments/assets/c54efa2d-8c67-416c-a820-b04eedd68be9" />
+
 ## Related Projects
 * [Zigbee2MQTT](https://www.zigbee2mqtt.io/)
+
 
 
 
